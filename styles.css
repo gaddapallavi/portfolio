@@ -1,0 +1,32 @@
+*{
+    margin: 5px;
+}
+#headerr{
+    padding: 5px;
+}
+#sec1,#para{
+    padding: 5px;
+}
+#header1{
+    background-color: yellow;
+    color: green;
+    text-decoration: underline;
+}
+img{
+    width: 50%;
+}
+input{
+    width: 100%;
+    padding: 5px;
+}
+button{
+    width: 50%;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
